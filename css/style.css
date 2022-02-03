@@ -28,13 +28,13 @@ body {
   padding-bottom: 40px;
 }
 .myphoto {
-  width: 325px;
+  width: 300px;
 }
 
 .about-me-container {
   padding-right: 90px;
   padding-left: 90px;
-  padding-top: 90px;
+  padding-top: 50px;
 }
 .contacts-container {
   margin-left: 40px;
@@ -141,7 +141,7 @@ body {
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
-  margin-top: 55px;
+  margin-top: 40px;
 }
 .projects-text {
   font-size: 14px;
