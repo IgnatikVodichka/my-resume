@@ -28,13 +28,13 @@ body {
   padding-bottom: 40px;
 }
 .myphoto {
-  width: 370px;
+  width: 325px;
 }
 
 .about-me-container {
   padding-right: 90px;
   padding-left: 90px;
-  padding-top: 110px;
+  padding-top: 90px;
 }
 .contacts-container {
   margin-left: 40px;
@@ -60,6 +60,7 @@ body {
   font-weight: 400;
   line-height: 24px;
   color: #464f5c;
+  text-decoration: none;
 }
 
 .ce {
@@ -133,7 +134,7 @@ body {
 }
 
 .main-info-container {
-  margin-bottom: 65px;
+  margin-bottom: 50px;
 }
 .wexped {
   font-size: 22px;
@@ -144,10 +145,11 @@ body {
 }
 .projects-text {
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 24px;
   text-decoration: none;
   color: #595959;
+  margin-top: 10px;
 }
 
 .jobs-title1 {
@@ -177,7 +179,7 @@ body {
   line-height: 24px;
 }
 .education-container {
-  margin-bottom: 110px;
+  margin-bottom: 50px;
 }
 .university {
   color: #ff6b08;
