@@ -12,6 +12,7 @@ body {
   padding-bottom: 35px;
   font-family: Montserrat;
 }
+
 .wrapper {
   background: #ffffff;
   display: flex;
@@ -20,6 +21,7 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
+
 .sidebar {
   background: #1e2939;
   width: 370px;
@@ -27,6 +29,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
 }
+
 .myphoto {
   width: 300px;
 }
@@ -36,11 +39,13 @@ body {
   padding-left: 90px;
   padding-top: 50px;
 }
+
 .contacts-container {
   margin-left: 40px;
   margin-top: 60px;
   margin-right: 40px;
 }
+
 .contacts {
   font-size: 22px;
   font-weight: 700;
@@ -48,18 +53,20 @@ body {
   color: #fff;
   margin-bottom: 20px;
 }
+
 .tel-link {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: #464f5c;
+  color: #fff;
   text-decoration: none;
 }
+
 .email {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: #464f5c;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -86,7 +93,7 @@ body {
   line-height: 24px;
   color: #fff;
   margin-bottom: 20px;
-  margin-top: 55px;
+  margin-top: 40px;
 }
 
 .tech-skills-container {
@@ -97,7 +104,7 @@ body {
 
 .soft-skills-container {
   margin-left: 40px;
-  margin-top: 60px;
+  margin-top: 40px;
   margin-right: 40px;
 }
 
@@ -108,6 +115,7 @@ body {
   color: #ff6b08;
   margin-left: 15px;
 }
+
 .skills-text {
   color: #c1c4c9;
 }
@@ -116,14 +124,14 @@ body {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 .name {
   font-size: 45px;
   font-weight: 700;
   line-height: 89px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .main-paragraph {
@@ -134,21 +142,27 @@ body {
 }
 
 .main-info-container {
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
+
 .wexped {
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
-  margin-top: 40px;
+  margin-top: 20px;
 }
+
+.projects {
+  color: #fff;
+}
+
 .projects-text {
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 600;
   line-height: 24px;
   text-decoration: none;
-  color: #595959;
+  color: #fff;
   margin-top: 10px;
 }
 
@@ -159,18 +173,22 @@ body {
   margin-top: 20px;
   margin-bottom: 15px;
 }
+
 .jobs-title2 {
   color: #ff6f0f;
 }
+
 .duration {
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
   color: #bdbdbd;
 }
+
 .devider {
   color: #000000;
 }
+
 .job-duties {
   margin-top: 15px;
   color: #595959;
@@ -178,9 +196,11 @@ body {
   font-weight: 400;
   line-height: 24px;
 }
+
 .education-container {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
+
 .university {
   color: #ff6b08;
   font-size: 16px;
@@ -188,6 +208,7 @@ body {
   line-height: 24px;
   margin-bottom: 15px;
 }
+
 .department {
   font-size: 14px;
   font-weight: 700;
